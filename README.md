@@ -27,3 +27,8 @@ This Python script allows users to create a Trello card with labels and a commen
 - Development & Testing: **2 hours**
 - Git setup & documentation: **1 hours**
 - **Total Time Spent: 2 + 2 + 1 hours**
+
+
+
+## Author
+**Aditya Gaike**
